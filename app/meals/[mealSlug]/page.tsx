@@ -1,9 +1,9 @@
 import { TypographyH1 } from "@/components/typography"
 
-export default function Home() {
+export default function MealDetailsPage() {
   return (
     <main>
-      <TypographyH1>Landing page</TypographyH1>
+      <TypographyH1>Meal Details</TypographyH1>
     </main>
   )
 }
